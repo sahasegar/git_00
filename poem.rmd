@@ -14,17 +14,42 @@ Our project will be done using several commits to the master branch.
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--’Twas brillig, and the slithy toves
-      Did gyre and gimble in the wabe:
-All mimsy were the borogoves,
-      And the mome raths outgrabe.
-“Beware the Jabberwock, my son!-->
+’Twas brillig, and the slithy toves  
+      Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+      And the mome raths outgrabe.  
+“Beware the Jabberwock, my son!  
 
 ## Second Verse
-<!--!-->
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
+
 
 ## Third Verse
-<!--!-->
+"The sun was shining on the sea,  
+      Shining with all his might:  
+
 
 ## Last Verse
-<!--Put a short poem of your choice 8-20 lines,here!-->
+In fields of green, where wildflowers sway,  
+Nature's symphony begins to play.  
+The sun's golden rays caress the land,  
+A gentle touch from the Creator's hand.  
+
+Mountains stand tall, proud and grand,  
+Guardians of a timeless land.  
+Rivers meander, their melodies flow,  
+Reflecting the sky's ever-changing glow.  
+
+Whispering trees dance in the breeze,  
+Their leaves a symphony of rustling seas.  
+Birds take flight, painting the air,  
+With wings of color, freedom they share.  
+
+Oh, nature's beauty, pure and divine,  
+A sanctuary where spirits align.  
+In its embrace, we find solace and grace,  
+A reminder of life's sacred embrace.  
